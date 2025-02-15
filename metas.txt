@@ -1,0 +1,15 @@
+para fazer por agora:
+
+uma makima que ao clicar, ganho waifu coins
+
+futuros planos: 
+
+a capacidade de mudar de waifu(
+    matheus(makima)
+    rafael(gabriel)
+    mateus/eu(jahy-sama)
+)
+
+coisas que fazem waifu coins sozinho
+
+guarda informação do usuario/localStorage(requesitos: ganhar waifu coins ao clicar e ganhar waifu coins sozinho)

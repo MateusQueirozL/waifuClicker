@@ -1,0 +1,22 @@
+body{
+    background-color: #FCE0BE;
+}
+
+main .click img{
+    width: 280px;
+    height: 280px;
+}
+
+main .click {
+    background-attachment: fixed;
+    position: absolute;
+    left: 610px;
+    top: 273px;
+}
+
+header p{
+    position: absolute;
+    left: 660px;
+    font-size: 30px;
+    align-items: center;
+}
