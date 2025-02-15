@@ -2,19 +2,19 @@ body{
     background-color: #FCE0BE;
 }
 
-main .click img{
+main .imagem img{
     width: 280px;
     height: 280px;
 }
 
-main .click {
+main .imagem {
     background-attachment: fixed;
     position: absolute;
     left: 610px;
     top: 273px;
 }
 
-header p{
+header div{
     position: absolute;
     left: 660px;
     font-size: 30px;
